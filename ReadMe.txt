@@ -1,0 +1,1 @@
+To run the program, run the "twitterSentiAnalysis.py" file.
